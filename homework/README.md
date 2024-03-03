@@ -1,7 +1,7 @@
 # FACEBOOK LOOK A LIKE (HOMEWORK ICM)
 
 Demo Video at:
-[Demo Video](https://github.com/Miragaia/ICM/homework)
+[Demo Video](https://youtu.be/YLkM03ju6-8)
 
 ## How to run
 - 1. flutter clean
